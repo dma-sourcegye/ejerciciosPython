@@ -13,4 +13,5 @@ for v in vector:
         mayor=v
 
 print 'mayor es: ',mayor
-
+#ESTE SCRIPT NO ES MIO LO COPÏE DE OTRA  PERSONA LA CUAL NO RECUERDO SU NOMBRE NI LA PÁGINA DE DONDE LO SAQUÉ
+#si este script no les funciona pueden probar codificar los ascii a utf-8 o solamente borrar las letras con tilde
