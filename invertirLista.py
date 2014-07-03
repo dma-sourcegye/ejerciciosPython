@@ -1,7 +1,7 @@
 from os import system
 lista=[]#Lista principal
 lista2=[]#lista donde se almacenaran los elementos invertidos
-lista3=[] #pila que servirá para invertir los valores de la lista
+lista3=[] #pila que servira para invertir los valores de la lista
 
 
 def InvertirLista(lista,lista2,lista3): #Funcion  inversora
