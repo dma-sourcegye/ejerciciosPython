@@ -2,6 +2,7 @@ from os import system
 i=0
 op=""
 
+#este script enseña cómo se crea una clase, fue sacado en base a un ejemplo de codigofacilito
 class Postre:
 	def __init__(self,nombre):
 		self.nombre=nombre
